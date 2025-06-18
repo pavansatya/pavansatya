@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pavan Satya Krishna</h1>
 <h3 align="center">Graduate Research Assistant at Rutgers University, looking for entry-level roles as a Data Analyst</h3>
