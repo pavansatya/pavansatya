@@ -83,6 +83,17 @@ mindmap
       Docker
       GitHub Actions
       Terraform
+    ((Cloud & BI))
+      ((Cloud Platforms))
+        Azure
+        AWS
+        SaaS (Fabric)
+      ((Business Intelligence))
+        Power BI
+        Tableau
+        Data Visualization
+        DAX
+        ETL Pipelines
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&show_icons=true&locale=en&layout=compact" alt="pavansatya" /></p>
