@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavan Satya Krishna</h1>
-<h3 align="center">Graduate Research Assistant at Rutgers University, looking for entry-level roles as a Data Analyst</h3>
+<h3 align="center">Data Analytics Engineer at Huntington, looking for Associate-level roles as a Data Analyst/Data Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavansatya" alt="pavansatya" /></a> </p>
 
