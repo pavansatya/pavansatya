@@ -21,42 +21,21 @@
 
 ## 🧬 About
 
-```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                                                                    ║
-  ║   > Data & BI professional with a knack for building scalable      ║
-  ║     pipelines, optimizing ETL workflows, and delivering            ║
-  ║     enterprise analytics across healthcare, education & finance.   ║
-  ║                                                                    ║
-  ║   > I turn fragmented data into clear stories — for technical      ║
-  ║     and non-technical stakeholders alike.                          ║
-  ║                                                                    ║
-  ║   > Currently exploring: Apache PySpark, NLP, and large-scale     ║
-  ║     data systems.                                                  ║
-  ║                                                                    ║
-  ╚══════════════════════════════════════════════════════════════════════╝
-```
+> **I don't just move data from A to B — I make it mean something.**
+>
+> From building ETL pipelines processing millions of healthcare records at **LA County Department of Health Services**, to designing Power BI dashboards that turned raw IPL stats into stories, my work sits at the intersection of engineering and insight. I've modernized data infrastructure at **Piramal Finance**, built semantic search systems like **[NutriWeb](https://github.com/pavansatya/NutriWeb)**, and shipped predictive models across finance, healthcare, and education — always with the goal of giving stakeholders clarity, not just charts.
+>
+> I'm a **Rutgers** grad, **AWS certified**, and currently deep in **Apache PySpark** and large-scale distributed systems. I care most about the full arc — from messy source to clean pipeline to a dashboard that changes someone's decision.
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-🔭 &nbsp; Currently building **[NutriWeb](https://github.com/pavansatya/NutriWeb)** — a semantic food recommendation system
+🔭 &nbsp; Currently building **[NutriWeb](https://github.com/pavansatya/NutriWeb)** — a semantic food recommendation engine on HuggingFace
 
 🌱 &nbsp; Leveling up in **Apache PySpark** and distributed computing
 
 👯 &nbsp; Open to collaborating on **[Power BI & Tableau dashboards](https://github.com/pavansatya/Indian-Premier-League-Analysis)**
 
 📄 &nbsp; **[View my Resume](https://drive.google.com/file/d/1kpaaDDAqfsetJkIrdsM9ZaQ8nTTR9v7x/view?usp=sharing)**
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -248,18 +227,28 @@ Dynamic Tableau dashboard tracking workforce KPIs — attrition, demographics, s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&show_icons=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" width="41%" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&hide_border=true&cache_seconds=86400" />
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400" width="60%" />
+</picture>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavansatya&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
-
-</div>
+> **⚠️ Note:** If stats images show "Error Fetching Resource," it's a temporary issue with the free Vercel-hosted stats services — they rate-limit heavily. The images will load again after a few minutes. You can also [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for reliable stats.
 
 ---
 
