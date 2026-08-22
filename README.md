@@ -29,13 +29,13 @@
 
 <br/>
 
-🔭 &nbsp; Currently building **[NutriWeb](https://github.com/pavansatya/NutriWeb)** — a semantic food recommendation engine on HuggingFace
+🔭 &nbsp; Currently building **[NutriWeb](https://huggingface.co/spaces/Krish264/NutriWeb)** — a semantic food recommendation engine on HuggingFace
 
 🌱 &nbsp; Leveling up in **Apache PySpark** and distributed computing
 
 👯 &nbsp; Open to collaborating on **[Power BI & Tableau dashboards](https://github.com/pavansatya/Indian-Premier-League-Analysis)**
 
-📄 &nbsp; **[View my Resume](https://drive.google.com/file/d/1kpaaDDAqfsetJkIrdsM9ZaQ8nTTR9v7x/view?usp=sharing)**
+📄 &nbsp; **[View my Resume](https://drive.google.com/file/d/1VpCKemyjKswULXx1swBug4QJegcrHdRl/view?usp=sharing)**
 
 ---
 
@@ -247,8 +247,6 @@ Dynamic Tableau dashboard tracking workforce KPIs — attrition, demographics, s
 </picture>
 
 </div>
-
-> **⚠️ Note:** If stats images show "Error Fetching Resource," it's a temporary issue with the free Vercel-hosted stats services — they rate-limit heavily. The images will load again after a few minutes. You can also [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for reliable stats.
 
 ---
 
