@@ -223,39 +223,6 @@ Dynamic Tableau dashboard tracking workforce KPIs — attrition, demographics, s
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pavansatya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansatya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" width="41%" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&hide_border=true&cache_seconds=86400" />
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pavansatya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400" width="60%" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pavansatya&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-
 **💬 Got a project in mind? Let's build something together.**
 
 [![Email](https://img.shields.io/badge/krishvenigalla06@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishvenigalla06@gmail.com)
